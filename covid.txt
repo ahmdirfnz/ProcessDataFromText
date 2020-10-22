@@ -1,0 +1,50 @@
+female;Mariam Binti Ramli; 20 4 39.0 39.0 38.5 37.0
+female;Aisyah Binti salleh; 41 3 41.0 39.0 38.0
+male;Nuh Harraz Bin Amilrul; 35 5 41.0 41.0 40.5 40.5 39.0
+male;Khalish Aiman Bin Sani; 15 4 39.0 39.5 40.5 41.0
+female;Fatimah Binti Zainuddin; 40 4 39.0 39.0 38.5 37.0
+male;Fahrin Bin Ahmad; 18 3 41.0 39.0 38.0
+male;Fauzi Bin Aiman; 12 5 41.0 41.0 40.5 40.5 39.0
+female;Aminah Binti Abu; 15 5 41.0 41.0 40.5 40.5 39.0
+male;Amin Bin AHmad; 24 5 41.0 41.0 40.5 40.5 39.0
+female;Maimunah Binti ALi; 45 4 39.0 39.5 40.5 41.0
+female;Siti Saleha Binti Khamis; 32 4 39.0 39.5 40.5 41.0
+male;Khairul Bin Megat; 41 4 39.0 39.5 40.5 41.0
+male;Azizul Bin Awang; 76 4 39.0 39.5 40.5 41.0
+female;Azizah Binti Zakaria; 90 4 39.0 39.5 40.5 41.0
+male;Nazirul Bin Muhammad; 25 4 39.0 39.5 40.5 41.0
+male;Azlan Bin Jaafar; 14 5 41.0 41.0 40.5 40.5 39.0
+female;Wan Aminah Binti Wan; 15 5 41.0 41.0 40.5 40.5 39.0
+male;Sayzwan Bin Teoh; 22 5 41.0 41.0 40.5 40.5 39.0
+male;Lee kok Chun; 25 5 41.0 41.0 40.5 40.5 39.0
+female;Ezzaty Binti Aiman; 36 5 41.0 41.0 40.5 40.5 39.0
+female;Stephenie A/P Chandran; 50 4 39.0 39.0 38.5 37.0
+female;Aqila Binti Kamarul; 56 4 39.0 39.0 38.5 37.0
+female;Athirah Binti Akmal; 57 4 39.0 39.0 38.5 37.0
+male;Wan NUr HAzim Bin Kamarul; 69 4 39.0 39.0 38.5 37.0
+male;Ashraf Bin Sinclare; 32 4 39.0 39.0 38.5 37.0
+female;Ernie Binti Zakri; 41 4 39.0 39.0 38.5 37.0
+male;Haikal Bin Ismail; 74 4 39.0 39.0 38.5 37.0
+male;Mail BIn Saiful; 25 4 39.0 39.0 38.5 37.0
+female;Haziqah Binti Ismail; 13 4 39.0 39.0 38.5 37.0
+female;Quratulaini Binti Aiman; 9 4 39.0 39.0 38.5 37.0
+male;Yusuf Bin Tayob; 21 4 39.0 39.0 38.5 37.0
+male;Hassan Bin Yahya; 25 4 39.0 39.0 38.5 37.0
+female;Siti Syazwani Binti Zakri; 55 4 39.0 39.0 38.5 37.0
+male;Hariz Bin Haron; 32 4 39.0 39.0 38.5 37.0
+female;Natalia Binti Zakaria; 41 4 39.0 39.0 38.5 37.0
+male;Richard Bin ROcky; 45 4 39.0 39.0 38.5 37.0
+female;Rosmah Binti haron;25 4 39.0 39.0 38.5 37.0
+female;Farah Binti Fikri; 45 4 39.0 39.0 38.5 37.0
+male;Wan Nur Ahmad Bin Arif; 15 4 39.0 39.0 38.5 37.0
+male;Arif Syazwan Bin Nik; 23 4 39.0 39.0 38.5 37.0
+female;Dora Binti Danish; 18 4 39.0 39.0 38.5 37.0
+male;Nikloedean Bin Ahmad; 25 4 39.0 39.0 38.5 37.0
+male;Syazwan Bin Nik; 23 4 39.0 39.0 38.5 37.0
+female;Fiqah Binti Ismail; 14 4 39.0 39.0 38.5 37.0
+male;Nur Ahmad Bin Arif; 22 4 39.0 39.0 38.5 37.0
+female;Ernienie Binti Zakri; 40 4 39.0 39.0 38.5 37.0
+female;Aini Binti Aiman; 9 4 39.0 39.0 38.5 37.0
+male;Nur Ahmad Bin Arif; 15 4 39.0 39.0 38.5 37.0
+male; Ahmad Bin Arif; 18 4 39.0 39.0 38.5 37.0
+female;Afila Binti Kamarul; 20 4 39.0 39.0 38.5 37.0

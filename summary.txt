@@ -1,0 +1,10 @@
+LIST OF COVID 19 PATIENTS
+Summary of Covid19 patients
+
+==========================
+Total number of male patients: 26
+Total number of female patients: 24
+The youngest patient age: 5(female)
+The oldest patient age: 90(female)
+The longest length of stay in the ward is 5 days with 52 days temperature above 40'C
+The patient's name is Ezzaty Binti Aiman(female, 36 years old).
